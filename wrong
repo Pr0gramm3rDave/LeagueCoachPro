@@ -1,0 +1,131 @@
+<html style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; background-color: #464646; margin: 0; padding: 0;"><head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="format-detection" content="telephone=no">
+        <title>GO Email Templates: Generic Template</title>
+        
+    </head>
+    <body class="generic-template" style="-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; background-color: #d7d7d7; margin: 0; padding: 0;" bgcolor="#d7d7d7">
+        <!-- Header Start -->
+        <div class="bg-white header" bgcolor="#ffffff" style="background-color: white; width: 100%;">
+            <table style="border-left: 10px solid white; border-right: 10px solid white; max-width: 600px; width: 100%;" bgcolor="#ffffff" align="center">
+                <tbody><tr height="80">
+                    <td class="vertical-align-middle" style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: middle;" align="left">
+                        
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <!-- Header End -->
+
+        <!-- Content Start -->
+        <table cols="1" style="max-width: 600px;" cellspacing="0" cellpadding="0" bgcolor="#d7d7d7" align="center">
+            <tbody><tr bgcolor="#d7d7d7">
+                <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" height="50"></td>
+            </tr>
+
+            <!-- This encapsulation is required to ensure correct rendering on Windows 10 Mail app. -->
+            <tr bgcolor="#d7d7d7">
+                <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;">
+                    <!-- Seperator Start -->
+                    <table cols="1" style="max-width: 600px; width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#d7d7d7" align="center">
+                        <tbody><tr bgcolor="#d7d7d7">
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" height="30"></td>
+                        </tr>
+                    </tbody></table>
+                    <!-- Seperator End -->
+
+ <!-- Generic Pod Left Aligned with Price breakdown Start -->
+                    <table cols="3" class="bordered-left-right" style="border-left: 10px solid #d7d7d7; border-right: 10px solid #d7d7d7; max-width: 600px; width: 100%;" cellspacing="0" cellpadding="0" bgcolor="white" align="center">
+                        <tbody><tr height="50"><td colspan="3" style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+                        <tr align="center">
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" width="36"></td>
+                            <td class="text-primary" style="color: #F16522; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;">
+                                <img src="http://dgtlmrktng.s3.amazonaws.com/go/emails/generic-email-template/tick.png" alt="GO" style="border: 0; font-size: 0; margin: 0; max-width: 100%; padding: 0;" width="50">
+                            </td>
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" width="36"></td>
+                        </tr>
+                        <tr height="17"><td colspan="3" style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+                        <tr align="center">
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" width="36"></td>
+                            <td class="text-primary" style="color: #F16522; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;">
+                                <h1 style="color: #F16522; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 30px; font-weight: 700; line-height: 34px; margin-bottom: 0; margin-top: 0;">Payment received</h1>
+                            </td>
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" width="36"></td>
+                        </tr>
+                        <tr height="30"><td colspan="3" style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+                        <tr align="center">
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" width="36"></td>
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;">
+                                <p style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22px; margin: 0;">You can go back to Discord</p>
+                            </td>
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" width="36"></td>
+                        </tr>
+                        <tr height="10"><td colspan="3" style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+                        
+                        <tr height="30">
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td>
+                            <td style="border-bottom: 1px solid #D3D1D1; color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td>
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td>
+                        </tr>
+                        <tr height="30"><td colspan="3" style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+                        <tr align="center">
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" width="36"></td>
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;">
+                            </td>
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" width="36"></td>
+                        </tr>
+
+                        <tr height="50">
+                            <td colspan="3" style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td>
+                        </tr>
+
+                    </tbody></table>
+                    <!-- Generic Pod Left Aligned with Price breakdown End -->
+
+                    <!-- Seperator Start -->
+                    <table cols="1" style="max-width: 600px; width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#d7d7d7" align="center">
+                        <tbody><tr bgcolor="#d7d7d7">
+                            <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" height="50"></td>
+                        </tr>
+                    </tbody></table>
+                    <!-- Seperator End -->
+
+                </td>
+            </tr>
+        </tbody></table>
+        <!-- Content End -->
+
+        <!-- Footer Start -->
+        <div class="bg-gray-dark footer" bgcolor="#464646" height="165" style="background-color: #464646; width: 100%;">
+            <table style="max-width: 600px; width: 100%;" bgcolor="#464646" align="center">
+                
+                <tbody><tr height="15"><td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+
+                <tr>
+                    
+                </tr>
+                
+                <tr height="2"><td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+
+                <tr>
+                    <td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;" align="center">
+                        
+                        <p class="text-primary" style="color: #F16522; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 22px; margin: 0;">
+                        </p>
+                    </td>
+                </tr>
+                
+                <tr height="15"><td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+
+                <tr>
+                    
+                </tr>
+                <tr height="10"><td style="color: #464646; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px; vertical-align: top;"></td></tr>
+
+            </tbody></table>
+        </div>
+        <!-- Footer End -->
+    
+
+</body></html>
